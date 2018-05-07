@@ -5,4 +5,5 @@ package app.test.com.gittest;
  */
 
 public class UserManager {
+    private String tag ="123";
 }
