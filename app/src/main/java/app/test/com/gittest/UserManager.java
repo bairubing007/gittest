@@ -6,4 +6,6 @@ package app.test.com.gittest;
 
 public class UserManager {
     private String tag ="123";
+    private String tag1 ="233";
+    private String tag3 ="444";
 }
